@@ -3,8 +3,8 @@
 [Learning Plan][5]
 
 ## 08.07.2024
-- morning: [FreeCodeCamp JavaScript Algorithms and Data Structures (Beta)][1] Learn Introductory JavaScript by Building a Pyramid Generator 14% done; 1-17
-- afternoon: [FreeCodeCamp JavaScript Algorithms and Data Structures (Beta)][1] Learn Introductory JavaScript by Building a Pyramid Generator 19% done; 18-25.
+- AM: [FreeCodeCamp JavaScript Algorithms and Data Structures (Beta)][1] Learn Introductory JavaScript by Building a Pyramid Generator 14% done; 1-17
+- PM: [FreeCodeCamp JavaScript Algorithms and Data Structures (Beta)][1] Learn Introductory JavaScript by Building a Pyramid Generator 19% done; 18-25.
   
 [FreeCodeCamp profile page with progress][2]
 
