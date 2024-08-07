@@ -2,6 +2,7 @@
 
 ## 08.07.2024
 [CodeCademy Python][1]
+
 [FreeCodeCamp JavaScript Algorithms and Data Structures (Beta)][2]
 
 
