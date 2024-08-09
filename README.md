@@ -10,6 +10,13 @@
 
 Made [Booklist][6] for learning endeavors. 
 
+## 08.08.2024
+Nothing
+
+## 08.09.2024
+- AM: [FreeCodeCamp JavaScript Algorithms and Data Structures (Beta)][1] Learn Introductory JavaScript by Building a Pyramid Generator 26-28
+
+  
 [Reference Links]: # 
 [1]: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 [2]: https://www.freecodecamp.org/tonomoshia
